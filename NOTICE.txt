@@ -1,0 +1,11 @@
+Required Notice: Copyright 2026 TonyYoungnb. MakiShot Cover Studio.
+
+The original software in this repository is offered under the PolyForm Noncommercial License 1.0.0 (LICENSE.md). Commercial use requires separate permission from the relevant rights holder.
+
+Third-party fonts (font-NotoSansSC.ttf and font-NotoSerifSC.ttf) retain their SIL Open Font License 1.1 (OFL.txt). The software's noncommercial restriction does not replace, narrow, or revoke the font license.
+
+MakiShot names, logos, and sample photographs are excluded from the software license. Their rights remain with their respective owners. Displaying them in this demo does not grant a license to extract, republish, sell, use as endorsements, or otherwise reuse them. Obtain separate permission from the relevant rights holders.
+
+Users retain any rights they have in their own uploaded images and text. This notice does not grant rights in those inputs. The software's use restrictions still apply to use of the editor.
+
+These public license terms govern third-party use. They do not restrict the rights holders' use of their own work or other separately authorized use.
